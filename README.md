@@ -1,7 +1,6 @@
 # Capstone-Project-Module-3- E-commerce Customer Churn Prediction
 
-Purpose:
-
+**Purpose:**
 The purpose of this document is to provide insights into understanding and predicting customer churn in the e-commerce domain using recall as a key metric.
 
 Background:
