@@ -1,11 +1,12 @@
-# Capstone-Project-Module-3- E-commerce Customer Churn Prediction
+# Capstone Project Module 3- E-commerce Customer Churn Prediction
 
 **Purpose:**
+
 The purpose of this document is to provide insights into understanding and predicting customer churn in the e-commerce domain using recall as a key metric.
 
-Background:
+**Background:**
 
-Customer churn, the rate at which customers stop doing business with a company, is a critical concern for e-commerce businesses. Understanding and predicting churn can help businesses take proactive measures to retain customers and maintain profitability.
+Customer churn, the rate at which customers stop doing business with a company, is a critical concern for e-commerce businesses. Understanding and predicting churn can help businesses take proactive measures to retain customers and maintain profitability. When the cost of acquiring a new customer is significantly higher than retaining an existing one, it highlights the importance of customer retention over acquisition (Customer Retention Cost : Customer Acquisition Cost = 1 : 5).
 
 Key Metric: Recall
 
